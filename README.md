@@ -1,2 +1,2 @@
 # godot-test-level
-This is a test environment that includes a level and a basic third person character controller
+First person camera example. Player bodies are hidden by placing on layer 2 and setting the camera to cull mask to not render layer 2.
